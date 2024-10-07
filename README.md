@@ -17,7 +17,7 @@ Developed a platform that enhances learning by integrating human teaching with A
 
 ![greenstuff](https://github.com/user-attachments/assets/b07ada4e-212a-48d8-ae18-18f11ddd47e0)
 
-<h3>Follow the cours</h3>
+<h3>Follow the course</h3>
 
 ![video](https://github.com/user-attachments/assets/c334fbaf-ba3e-4e21-8245-7afc0e486814)
 

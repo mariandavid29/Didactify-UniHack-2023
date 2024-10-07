@@ -6,6 +6,7 @@ Developed a platform that enhances learning by integrating human teaching with A
 <h2>App Workflow Overview</h2>
 
 <h3>Landing Page</h3>
-![Landing](https://github.com/user-attachments/assets/7b0c9218-0a8c-4025-81d0-4dd825ad79cc.png)
+
+![Landing](https://github.com/user-attachments/assets/cfbb20b2-578b-4a11-a09f-b52673d80826)
 
 
